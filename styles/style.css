@@ -141,9 +141,6 @@ margin-bottom: 20px;
   line-height: 34px;
   font-size: 24px;
 }
-.section-subtitle_theme_dark{
-  margin-top: 20px;
-}
 .section-subtitle_margin-bottom{
   margin-bottom: 60px;
 }
@@ -246,6 +243,7 @@ margin-bottom: 20px;
   font-weight: bold;
 }
 .section-subtitle_theme_dark{
+  margin-top: 20px;
   color: white;
   line-height: 34px;
   font-size: 24px;
