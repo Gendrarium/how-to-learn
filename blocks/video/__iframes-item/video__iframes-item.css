@@ -1,0 +1,12 @@
+.video__iframes-item {
+  list-style: none;
+  padding: 0;
+  margin-right: 20px;
+  width: 515px;
+  height: 316px;
+  position: relative;
+  z-index: 1;
+}
+.video__iframes-item:nth-of-type(2) {
+  margin-right: 0;
+}

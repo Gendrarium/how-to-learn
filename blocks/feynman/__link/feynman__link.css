@@ -6,4 +6,10 @@
   top: 50%;
   text-decoration: none;
   color: #000;
+  opacity: 1;
+  transition: opacity 1s linear;
 }
+.feynman__link:hover{
+  opacity: .4;
+}
+

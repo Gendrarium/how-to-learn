@@ -1,7 +1,7 @@
-.hover-transparency{
+.resources__link {
   opacity: 1;
   transition: opacity 1s linear;
 }
-.hover-transparency:hover{
+.resources__link:hover{
   opacity: .4;
 }
